@@ -28,3 +28,8 @@ Project 8 - Plant_Seedling_Classification: Computer Vision, OpenCV, Conv2D, MaxP
 Project 9 - NLP_Twitter_US_Airline_Sentiment: Natural Language Processing, Sentiment Analysis, Word Clouds, Stop words, Word Tokenization, 
             Word Net Lemmatizer, Beautiful Soup, Count Vectorization (Bag of Words), and Tf-IDF Vectorization 
            
+Hackathon - My 1st place winning notebook for a hackathon competition in my post grad program at UT Austin. The competition was based on NBFC Loan Defaults
+            and the goal was to create a model that could achieve the highest accuracy as to predicting whether or not a customer would default on a loan.
+            My model achieved the highest accuracy using a combination of Random Forest, GridSearchCV to tune the Random Forest model, and a neural network
+            constructed from the top features identified by the tuned Random Forest.
+            
