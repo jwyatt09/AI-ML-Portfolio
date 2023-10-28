@@ -18,12 +18,12 @@ Project 5 - Credit_Churn_Prediction: Class Balancing, SMOTE, Random Under and Ov
 Project 6 - AllLife_Bank_Customer_Segmentation: Scaling, Clustering, Elbow Method, Silhouette Visualizer, 
             Hierarchical Clustering with different distance metrics, Dendrograms, and Dimensionality Reduction using PCA
 
-Project 7 - Bank_Churn: Artificial Neural Networks, Tensor Flow, Keras, Dense layers, Dropout, binary-crossentropy, activation functions, 
-            kernel intializers, optimizers, Batch Normalization, and Classification Report
+Project 7 - Bank_Churn: Artificial Neural Networks, TensorFlow, Keras, Dense, Layers, Dropout, Binary-crossentropy, Activation functions, 
+            Kernel initializers, Optimizers, Batch Normalization, and Classification Report
             
 Project 8 - Plant_Seedling_Classification: Computer Vision, OpenCV, Conv2D, MaxPooling2D, Early Stopping, Model Checkpoint, VGG16, 
             Label Binarizer, Gaussian Blur, BGR to RGB conversion, Data Augmentation with Image Data Generator, Softmax activation,
-            and categorical-crossentropy
+            and Categorical-crossentropy
             
 Project 9 - NLP_Twitter_US_Airline_Sentiment: Natural Language Processing, Sentiment Analysis, Word Clouds, Stop words, Word Tokenization, 
             Word Net Lemmatizer, Beautiful Soup, Count Vectorization (Bag of Words), and Tf-IDF Vectorization 
