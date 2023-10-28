@@ -16,7 +16,7 @@ Project 4 - Tourism_Package: Ensemble Techniques such as Random Forest, Bagging,
 Project 5 - Credit_Churn_Prediction: Class Balancing, SMOTE, Random Under and Over Sampling, Near Miss, Cross Validation, and Randomized Search CV
 
 Project 6 - AllLife_Bank_Customer_Segmentation: Scaling, Clustering, Elbow Method, Silhouette Visualizer, 
-            Hierarchial Clustering with different distance metrics, Dendrograms, and Dimensionality Reduction using PCA
+            Hierarchical Clustering with different distance metrics, Dendrograms, and Dimensionality Reduction using PCA
 
 Project 7 - Bank_Churn: Artificial Neural Networks, Tensor Flow, Keras, Dense layers, Dropout, binary-crossentropy, activation functions, 
             kernel intializers, optimizers, Batch Normalization, and Classification Report
